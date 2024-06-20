@@ -12,7 +12,9 @@
 ~H
 # Historique ligne de commande (chronologie décroissante) :
 :wq
-|2,0,1718847788,,"wq"
+|2,0,1718848109,,"wq"
+:wq 
+|2,0,1718848054,,"wq "
 
 # Historique chaîne de recherche (chronologie décroissante) :
 
@@ -25,16 +27,48 @@
 # Registres :
 
 # Marques dans le fichier :
-'0  13  6  ~/index.html
-|4,48,13,6,1718847788,"~/index.html"
-'1  1  2  ~/txt
-|4,49,1,2,1718847496,"~/txt"
+'0  8  13  ~/index.html
+|4,48,8,13,1718848109,"~/index.html"
+'1  1  0  ~/index2.html
+|4,49,1,0,1718848054,"~/index2.html"
+'2  13  6  ~/index.html
+|4,50,13,6,1718847788,"~/index.html"
+'3  13  6  ~/index.html
+|4,51,13,6,1718847788,"~/index.html"
+'4  1  2  ~/txt
+|4,52,1,2,1718847496,"~/txt"
 
 # Liste de sauts (le plus récent en premier) :
+-'  8  13  ~/index.html
+|4,39,8,13,1718848109,"~/index.html"
+-'  13  6  ~/index.html
+|4,39,13,6,1718848065,"~/index.html"
+-'  1  0  ~/index2.html
+|4,39,1,0,1718848054,"~/index2.html"
+-'  1  0  ~/index2.html
+|4,39,1,0,1718848054,"~/index2.html"
+-'  13  6  ~/index.html
+|4,39,13,6,1718847788,"~/index.html"
 -'  13  6  ~/index.html
 |4,39,13,6,1718847788,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1718847740,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1718847740,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1718847740,"~/index.html"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
 -'  1  2  ~/txt
 |4,39,1,2,1718847496,"~/txt"
 -'  1  2  ~/txt
@@ -43,11 +77,16 @@
 # Historique des marques dans les fichiers (les plus récentes en premier) :
 
 > ~/index.html
-	*	1718847782	0
-	"	13	6
-	^	13	7
-	.	13	6
+	*	1718848106	0
+	"	8	13
+	^	8	14
+	.	8	14
 	+	13	6
+	+	8	14
+
+> ~/index2.html
+	*	1718848051	0
+	"	1	0
 
 > ~/txt
 	*	1718847495	0
