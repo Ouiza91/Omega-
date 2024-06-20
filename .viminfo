@@ -12,7 +12,7 @@
 ~H
 # Historique ligne de commande (chronologie décroissante) :
 :wq
-|2,0,1718848109,,"wq"
+|2,0,1718848271,,"wq"
 :wq 
 |2,0,1718848054,,"wq "
 
@@ -27,26 +27,44 @@
 # Registres :
 
 # Marques dans le fichier :
-'0  8  13  ~/index.html
-|4,48,8,13,1718848109,"~/index.html"
-'1  1  0  ~/index2.html
-|4,49,1,0,1718848054,"~/index2.html"
-'2  13  6  ~/index.html
-|4,50,13,6,1718847788,"~/index.html"
+'0  16  6  ~/index3.html
+|4,48,16,6,1718848271,"~/index3.html"
+'1  8  13  ~/index.html
+|4,49,8,13,1718848109,"~/index.html"
+'2  1  0  ~/index2.html
+|4,50,1,0,1718848054,"~/index2.html"
 '3  13  6  ~/index.html
 |4,51,13,6,1718847788,"~/index.html"
-'4  1  2  ~/txt
-|4,52,1,2,1718847496,"~/txt"
+'4  13  6  ~/index.html
+|4,52,13,6,1718847788,"~/index.html"
+'5  1  2  ~/txt
+|4,53,1,2,1718847496,"~/txt"
 
 # Liste de sauts (le plus récent en premier) :
+-'  16  6  ~/index3.html
+|4,39,16,6,1718848271,"~/index3.html"
+-'  1  0  ~/index3.html
+|4,39,1,0,1718848217,"~/index3.html"
 -'  8  13  ~/index.html
 |4,39,8,13,1718848109,"~/index.html"
+-'  8  13  ~/index.html
+|4,39,8,13,1718848109,"~/index.html"
+-'  13  6  ~/index.html
+|4,39,13,6,1718848065,"~/index.html"
 -'  13  6  ~/index.html
 |4,39,13,6,1718848065,"~/index.html"
 -'  1  0  ~/index2.html
 |4,39,1,0,1718848054,"~/index2.html"
 -'  1  0  ~/index2.html
 |4,39,1,0,1718848054,"~/index2.html"
+-'  1  0  ~/index2.html
+|4,39,1,0,1718848054,"~/index2.html"
+-'  1  0  ~/index2.html
+|4,39,1,0,1718848054,"~/index2.html"
+-'  13  6  ~/index.html
+|4,39,13,6,1718847788,"~/index.html"
+-'  13  6  ~/index.html
+|4,39,13,6,1718847788,"~/index.html"
 -'  13  6  ~/index.html
 |4,39,13,6,1718847788,"~/index.html"
 -'  13  6  ~/index.html
@@ -57,6 +75,28 @@
 |4,39,1,0,1718847740,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1718847740,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1718847740,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1718847740,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1718847740,"~/index.html"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
+-'  1  2  ~/txt
+|4,39,1,2,1718847496,"~/txt"
 -'  1  2  ~/txt
 |4,39,1,2,1718847496,"~/txt"
 -'  1  2  ~/txt
@@ -75,6 +115,13 @@
 |4,39,1,2,1718847496,"~/txt"
 
 # Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/index3.html
+	*	1718848268	0
+	"	16	6
+	^	16	7
+	.	16	6
+	+	16	6
 
 > ~/index.html
 	*	1718848106	0
